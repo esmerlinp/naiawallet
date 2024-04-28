@@ -1,5 +1,5 @@
 import qrcode
-from PIL import Image
+#from PIL import Image
 
 data = "This is some text to be encoded in the QR code."
 
