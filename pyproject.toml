@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "naia-wallet"
+version = "0.1.0"
+description = "bitcoin wallet"
+authors = ["merlinp"]
+
+
+[tool.poetry.dependencies]
+python = "^3.10"
